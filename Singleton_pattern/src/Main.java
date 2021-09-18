@@ -23,7 +23,6 @@ public class Main {
 		System.out.println(singleton1.getCount());
 		System.out.println(singleton2.getCount());
 		
-		System.out.println("");
 	}
 
 }
