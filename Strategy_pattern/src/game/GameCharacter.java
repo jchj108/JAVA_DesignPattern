@@ -1,3 +1,4 @@
+package game;
 
 public class GameCharacter {
 	private Weapon weapon;
